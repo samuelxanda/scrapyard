@@ -141,7 +141,7 @@ export default function ExampleCity() {
                 margin: '8%'
               }}
             >
-              Build stupid s#!t, get stupid prizes.
+              Make Your Ideas Real, Build something, and  get  prizes.
             </Heading>
           </Box>
           <Box
@@ -341,15 +341,9 @@ export default function ExampleCity() {
               }}
             >
               {/* TODO: Change [EXAMPLECITY] to your event's city */}
-              Scrapyard Nyagatare is a hackathon for high schoolers
+              Scrapyard Nyagatare is a hackathon for high schoolers {''}
               {/* TODO: Change [EXAMPLECITY] to your event's city */}
-              happening in Nyagatare, where you can make the stupidest
-              things you can think of! Anything, from a{' '}
-              <Link href="https://www.youtube.com/watch?v=PnK4gzO6S3Q">
-                lamp that flashes faster the slower you type
-              </Link>
-              , to those ideas that you wouldn't dare to consider to be useful,
-              goes at Scrapyard. No matter your experience, Scrapyard
+              happening in Nyagatare, where you can make your ideas Real, Build something, and  get  prizes. No matter your experience, Scrapyard{' '}
               {/* TODO: Change [EXAMPLECITY] to your event's city */}
               Nyagatare
                needs you and your scrappy ideas!
